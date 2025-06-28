@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ureeda Balouch</h1>
-<h3 align="center">BCS 4th Semester Student | Passionate about C++, Python & Networking</h3>
+<h3 align="center">BCS 5th Semester Student | Passionate about C++, Python & Networking</h3>
 
 - 🔭 I’m currently working on **Network Traffic Analyzer**
 
