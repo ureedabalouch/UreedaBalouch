@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Network Traffic Analyzer**
 
-- 🌱 I’m currently learning **Networking**,**AI Automation**
+- 🌱 I’m currently learning **Networking**
 
 - 📫 How to reach me **ureedabalouch@gmail.com**
 
